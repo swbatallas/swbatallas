@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stewart</h1>
-<h3 align="center">A web dev from Sevilla</h3>
+<h3 align="center">A full stack web dev from Sevilla</h3>
 
 - 🔭 I’m currently looking for **work**
 
